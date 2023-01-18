@@ -31,3 +31,13 @@ The mobile or web app was created to simulate all the system behind the UI kit i
 Web and iPad Preview           |      Mobile UI Preview
 :-------------------------:|:-------------------------:
 ![](screenshots/Tablet.png)  |  ![](screenshots/Mobile.png)
+
+## Notes
+    ### In Progress
+
+## Design Details
+As exposed on the shared dribble link, there's all the design details also present in this app as designed.
+
+## Contribution
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
