@@ -1,7 +1,7 @@
 # Inteo - Architecture and Interior Design Studio Mobile,Tablet & Web Responsive App
 
 ## App Concept
-App concept created and inspired by [Inteo - Architecture and interior design studio template.](https://landify.design/templates/inteo) design found on Landify.
+App concept created and inspired by [Inteo - Architecture and interior design studio template.](https://preview.landify.design/inteo/) design found on Landify.
 
 ![](screenshots/templates.png)
 
@@ -24,6 +24,10 @@ The mobile or web app was created to simulate all the system behind the UI kit i
 * Landscape
 * Portrait
  
-### Architecture and Interior Design Studio App Responsive Final UI - Web
+### [Architecture and Interior Design Studio App Responsive Final UI - Web]
 
 ![DeskTop UI](screenshots/Desktop.png)
+
+### [Tablet Final UI Preview]           |      [Mobile Final UI Preview]
+:-------------------------:|:-------------------------:
+![](screenshots/Tablet.png)  |  ![](screenshots/Mobile.png)
