@@ -28,6 +28,6 @@ The mobile or web app was created to simulate all the system behind the UI kit i
 
 ![DeskTop UI](screenshots/Desktop.png)
 
-### [Tablet Final UI Preview]           |      [Mobile Final UI Preview]
+Web and iPad Preview           |      Mobile UI Preview
 :-------------------------:|:-------------------------:
 ![](screenshots/Tablet.png)  |  ![](screenshots/Mobile.png)
